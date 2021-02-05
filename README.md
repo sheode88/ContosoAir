@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/sheodehimanshu/ContosoAir/_apis/build/status/sheode88.ContosoAir?branchName=master)](https://dev.azure.com/sheodehimanshu/ContosoAir/_build/latest?definitionId=3&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
